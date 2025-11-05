@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development with react, html, css and JAVA to create APIs. <br>Expanding my portfolio, to get my first job.<br>🤝 I’m looking for advices to get better on my skills<br>🌱 I’m currently learning libraries for react, js like framer motion, and working more with JAVA Spring .<br>⚡Making my way with Docker and Kubernetes.
+🔭 I’m currently working on web development with react, html, css and JAVA to create APIs. <br>Expanding my portfolio.<br>🤝 I’m looking for advices to get better on my skills<br>🌱 I’m currently learning libraries for react, js like framer motion, and working more with JAVA Spring .<br>⚡Making my way with Docker and Kubernetes.
 
 
 ## 🌐 Socials:
